@@ -263,21 +263,29 @@ redirect_from:
   margin: 2em auto; 
   max-width: 600px;
   padding: 1.5em; 
-  border-radius: 10px; 
+  border-radius: 12px; 
   background: linear-gradient(135deg, #ffffff 0%, #f8f8f8 100%);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 14px rgba(0,0,0,0.1);
   text-align: center;
   font-family: Arial, sans-serif;
 ">
-  <h2 style="margin-top: 0; color: #333;">My Visitor Map</h2>
-  <p style="color: #666; margin-bottom: 1em;">
+  <h2 style="margin: 0; color: #333; font-size: 1.4em;">Where in the world?</h2>
+  <p style="color: #666; margin: 0.8em 0 1.2em 0; line-height: 1.5;">
+    Take a look at the map below to see where my visitors come from.
   </p>
+
+  <!-- Your ClustrMaps script -->
   <div style="display: inline-block;">
-    <!-- Your actual ClustrMaps script -->
-    <script 
-      type="text/javascript" 
-      id="clustrmaps" 
+    <script
+      type="text/javascript"
+      id="clustrmaps"
       src="//clustrmaps.com/map_v2.js?d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"
-    ></script>
+      >
+    </script>
   </div>
+
+  <p style="color: #999; font-size: 0.85em; margin-top: 1em;">
+    <em>Powered by <strong>ClustrMaps</strong></em>
+  </p>
 </div>
+
