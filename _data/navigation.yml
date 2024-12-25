@@ -7,7 +7,7 @@ u# The following is the order of the links in the header of the website.
 main:
     
   - title: "Education"
-    url: /Education/
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/
