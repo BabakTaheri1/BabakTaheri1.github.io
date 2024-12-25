@@ -10,8 +10,13 @@ Hello! I recently completed my PhD in the School of Electrical and Computer Engi
 
 My passion lies in harnessing the power of mathematical optimization and machine learning techniques to foster a more **reliable**, **resilient**, **affordable**, and **sustainable** energy future. Outside of my work in research and education, I enjoy hiking, traveling, camping, watching movies, and playing soccer and volleyball.
 
-Before coming to Georgia Tech, I earned an M.Sc. degree in Electrical Engineering from Sharif University of Technology.
-
+Education
+======
+* Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
+* M.Sc in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
+* M.Sc in Electrical Engineering, Sharif University of Technology, 2019
+* B.Sc in Electrical Engineering, University of Tabriz, 2017
+  
 Latest news & announcements
 ======
 - **December 2024**: I defended my dissertation “Improving Power System Approximations Through Machine Learning-Inspired Optimization Methods” to complete the PhD degree.
