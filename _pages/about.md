@@ -15,6 +15,7 @@ Before coming to Georgia Tech, I earned an M.Sc. degree in Electrical Engineerin
 Latest news & announcements
 ======
 **December 2024**: I defended my dissertation “Improving Power System Approximations Through Machine Learning-Inspired Optimization Methods” to complete the PhD degree.
+
 **November 2024**: Check out our new [preprint](https://arxiv.org/pdf/2411.10528) on DC Optimal Transmission Switching Problem.
 **October 2024**: Check out our new [preprint](https://arxiv.org/pdf/2410.11725) on improving the accuracy of DC optimal power flow models.
 **July 2024**: I received the Dominion Energy Inclusion, Equity, and Diversity Scholarship Award for the second consecutive time.
