@@ -259,4 +259,26 @@ redirect_from:
 </div>
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"></script>
+<div style="
+  margin: 2em auto; 
+  max-width: 600px;
+  padding: 1.5em; 
+  border-radius: 10px; 
+  background: linear-gradient(135deg, #ffffff 0%, #f8f8f8 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+">
+  <h2 style="margin-top: 0; color: #333;">My Visitor Map</h2>
+  <p style="color: #666; margin-bottom: 1em;">
+    See where my website visitors are from!
+  </p>
+  <div style="display: inline-block;">
+    <!-- Your actual ClustrMaps script -->
+    <script 
+      type="text/javascript" 
+      id="clustrmaps" 
+      src="//clustrmaps.com/map_v2.js?d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"
+    ></script>
+  </div>
+</div>
