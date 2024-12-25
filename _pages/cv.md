@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-### ![Dominion Energy Logo](LOGO_URL "Dominion Energy") Dominion Energy
+### ![Dominion Energy Logo]([LOGO_URL "Dominion Energy"](https://www.google.com/url?sa=i&url=https%3A%2F%2Flobbymap.org%2Fcompany%2FDominion-Resources&psig=AOvVaw2oqoQCIiU0Mnzoq49HnQ13&ust=1735246757473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjwhIfow4oDFQAAAAAdAAAAABAE)) Dominion Energy
 **Role:** *Graduate Intern, Electric Transmission Strategic Initiatives*  
 **Location:** Richmond, VA  
 **Dates:** May 2024 – Aug. 2024  
