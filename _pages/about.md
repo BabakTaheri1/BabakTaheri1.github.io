@@ -271,7 +271,6 @@ redirect_from:
 ">
   <h2 style="margin-top: 0; color: #333;">My Visitor Map</h2>
   <p style="color: #666; margin-bottom: 1em;">
-    See where my website visitors are from!
   </p>
   <div style="display: inline-block;">
     <!-- Your actual ClustrMaps script -->
