@@ -38,7 +38,7 @@ Education
       color: #fff; 
       font-family: Arial, sans-serif;
     ">
-      Latest News &amp; Announcements
+      Latest News
     </h2>
   </div>
 
