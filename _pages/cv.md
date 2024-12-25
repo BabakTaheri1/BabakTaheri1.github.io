@@ -45,7 +45,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/gatech.png" alt="Georgia Tech Logo" title="Georgia Tech" width="40" style="vertical-align:middle; margin-right:5px;"/> Georgia Institute of Technology
+### <img src="../images/gt-seal_0.png" alt="Georgia Tech Logo" title="Georgia Tech" width="40" style="vertical-align:middle; margin-right:5px;"/> Georgia Institute of Technology
 **Role:** *Graduate Research and Teaching Assistant*  
 **Location:** Atlanta, GA  
 **Dates:** Aug. 2021 – Dec. 2024  
