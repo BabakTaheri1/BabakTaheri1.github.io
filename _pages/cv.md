@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-### ![Dominion Energy Logo](./images/dominion.png "Dominion Energy") Dominion Energy
+### ![Dominion Energy Logo](./images/bio-photo.jpg "Dominion Energy") Dominion Energy
 **Role:** *Graduate Intern, Electric Transmission Strategic Initiatives*  
 **Location:** Richmond, VA  
 **Dates:** May 2024 – Aug. 2024  
