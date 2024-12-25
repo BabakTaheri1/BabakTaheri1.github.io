@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 <div style="
   background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
   padding: 1.5em;
@@ -269,7 +271,6 @@ redirect_from:
 ">
   <h2 style="margin-top: 0; color: #333;">My Visitor Map</h2>
   <p style="color: #666; margin-bottom: 1em;">
-    See where my website visitors are from!
   </p>
   <div style="display: inline-block;">
     <script type='text/javascript' id='clustrmaps'
