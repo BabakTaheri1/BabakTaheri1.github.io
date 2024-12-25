@@ -108,7 +108,7 @@ redirect_from:
     <em>Graduate Research and Teaching Assistant</em>
   </div>
   <div style="text-align: right;">
-    <strong>Tehran, Iran</strong><br>
+    <strong>Tehran</strong><br>
     <strong>Sep. 2017 – May 2021</strong>
   </div>
 </div>
