@@ -10,13 +10,6 @@ Hello! I recently completed my PhD in the School of Electrical and Computer Engi
 
 My passion lies in harnessing the power of mathematical optimization and machine learning techniques to foster a more **reliable**, **resilient**, **affordable**, and **sustainable** energy future. Outside of my work in research and education, I enjoy hiking, traveling, camping, watching movies, and playing soccer and volleyball.
 
-Education
-======
-* Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
-* M.Sc in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
-* M.Sc in Electrical Engineering, Sharif University of Technology, 2019
-* B.Sc in Electrical Engineering, University of Tabriz, 2017
-
 
 <div style="
   background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
