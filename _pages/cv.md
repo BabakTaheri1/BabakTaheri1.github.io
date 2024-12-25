@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Experience
-
----
-
 <div style="display:flex; justify-content: space-between; align-items:center; margin-bottom:0.5em;">
   <div>
     <h3 style="margin:0;">
