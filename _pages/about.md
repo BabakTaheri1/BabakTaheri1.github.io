@@ -18,7 +18,7 @@ Education
 * B.Sc in Electrical Engineering, University of Tabriz, 2017
   
 
-<!-- Fancy, scrollable "Latest News & Announcements" section -->
+<!-- Fancy, scrollable "Latest News" section -->
 <h2 style="text-align:center; font-size:1.5em; margin-top:0; margin-bottom:0.5em;">
   Latest News & Announcements
 </h2>
