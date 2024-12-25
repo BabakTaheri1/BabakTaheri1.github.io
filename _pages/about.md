@@ -8,8 +8,7 @@ redirect_from:
 ---
 <nav>
   <ul>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
-    <li><a href="{{ site.baseurl }}/graph.html">Graph</a></li>
+    <li><a href="{{ site.baseurl }}/graph"></a></li>
   </ul>
 </nav>
 
