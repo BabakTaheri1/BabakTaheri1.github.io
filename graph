@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Force-Directed Graph</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      margin: 0; 
+      background: #fff;
+    }
+    svg {
+      display: block; 
+      margin: 0 auto; 
+      background: #f9f9f9;
+    }
+    .link {
+      stroke: #999; 
+      stroke-opacity: 0.4;
+    }
+    .node {
+      stroke: #fff; 
+      stroke-width: 1.5px; 
+      cursor: grab;
+    }
+  </style>
+</head>
+<body>
+  <svg id="viz" width="600" height="600"></svg>
+  <script>
+    // D3 code here
+    const numNodes = 20;
+    const numLinks = 25;
+    const nodes = d3.range(numNodes).map(i => ({ id: i }));
+    const links = d3.range(numLinks).map(() => ({
+      source: Math.floor(Math.random() * numNodes),
+      target: Math.floor(Math.random() * numNodes)
+    }));
+    
+    const width = 600, height = 600;
+    const svg = d3.select('#viz');
+    
+    const simulation = d3.forceSimulation(nodes)
+      .force('charge', d3.forceManyBody().strength(-100))
+      .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('link', d3.forceLink(links).distance(80))
+      .on('tick', ticked);
+    
+    const link = svg.selectAll('.link')
+      .data(links)
+      .enter().append('line')
+      .attr('class', 'link')
+      .attr('stroke-width', 1);
+    
+    const node = svg.selectAll('.node')
+      .data(nodes)
+      .enter().append('circle')
+      .attr('class', 'node')
+      .attr('r', 6)
+      .attr('fill', 'gray')
+      .call(d3.drag()
+        .on('start', dragStarted)
+        .on('drag', dragged)
+        .on('end', dragEnded)
+      );
+    
+    function ticked() {
+      link
+        .attr('x1', d => d.source.x)
+        .attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x)
+        .attr('y2', d => d.target.y);
+      node
+        .attr('cx', d => d.x)
+        .attr('cy', d => d.y);
+    }
+    
+    function dragStarted(event, d) {
+      if (!event.active) simulation.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+    function dragged(event, d) {
+      d.fx = event.x;
+      d.fy = event.y;
+    }
+    function dragEnded(event, d) {
+      if (!event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+  </script>
+</body>
+</html>
