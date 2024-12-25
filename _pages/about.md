@@ -258,33 +258,5 @@ redirect_from:
   </div>
 </div>
 
-
-<div style="
-  margin: 2em auto; 
-  max-width: 600px;
-  padding: 1.5em; 
-  border-radius: 12px; 
-  background: linear-gradient(135deg, #ffffff 0%, #f8f8f8 100%);
-  box-shadow: 0 5px 14px rgba(0,0,0,0.1);
-  text-align: center;
-  font-family: Arial, sans-serif;
-">
-  <h2 style="margin: 0; color: #333; font-size: 1.4em;">Where in the world?</h2>
-  <p style="color: #666; margin: 0.8em 0 1.2em 0; line-height: 1.5;">
-  </p>
-
-  <!-- Your ClustrMaps script -->
-  <div style="display: inline-block;">
-    <script
-      type="text/javascript"
-      id="clustrmaps"
-      src="//clustrmaps.com/map_v2.js?d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"
-      >
-    </script>
-  </div>
-
-  <p style="color: #999; font-size: 0.85em; margin-top: 1em;">
-    <em>Powered by <strong>ClustrMaps</strong></em>
-  </p>
-</div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"></script>
 
