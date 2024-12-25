@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<li><a href="{{ site.baseurl }}/graph/">Graph</a></li>
+
 <div style="
   background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
   padding: 1.5em;
