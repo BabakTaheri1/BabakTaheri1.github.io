@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/dominion.png" alt="Dominion Energy Logo" title="Dominion Energy" width="40" style="vertical-align:middle; margin-right:5px;"/> Dominion Energy
+### <img src="../images/dominion.png" alt="Dominion Energy Logo" title="Dominion Energy" width="50" style="vertical-align:middle; margin-right:5px;"/> Dominion Energy
 **Role:** *Graduate Intern, Electric Transmission Strategic Initiatives*  
 **Location:** Richmond, VA  
 **Dates:** May 2024 – Aug. 2024  
@@ -25,7 +25,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/nerc.png" alt="NERC Logo" title="NERC" width="40" style="vertical-align:middle; margin-right:5px;"/> North American Electric Reliability Corporation (NERC)
+### <img src="../images/nerc.png" alt="NERC Logo" title="NERC" width="50" style="vertical-align:middle; margin-right:5px;"/> North American Electric Reliability Corporation (NERC)
 **Role:** *Graduate Intern, Advanced System Analytics & Modeling*  
 **Location:** Atlanta, GA  
 **Dates:** Jan. 2024 – May 2024  
@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/dominion.png" alt="Dominion Energy Logo" title="Dominion Energy" width="40" style="vertical-align:middle; margin-right:5px;"/> Dominion Energy
+### <img src="../images/dominion.png" alt="Dominion Energy Logo" title="Dominion Energy" width="50" style="vertical-align:middle; margin-right:5px;"/> Dominion Energy
 **Role:** *Graduate Intern, Electric Transmission Planning – Modeling*  
 **Location:** Richmond, VA  
 **Dates:** May 2023 – Aug. 2023  
@@ -45,7 +45,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/gt-seal_0.png" alt="Georgia Tech Logo" title="Georgia Tech" width="40" style="vertical-align:middle; margin-right:5px;"/> Georgia Institute of Technology
+### <img src="../images/gt-seal_0.png" alt="Georgia Tech Logo" title="Georgia Tech" width="30" style="vertical-align:middle; margin-right:5px;"/> Georgia Institute of Technology
 **Role:** *Graduate Research and Teaching Assistant*  
 **Location:** Atlanta, GA  
 **Dates:** Aug. 2021 – Dec. 2024  
@@ -55,7 +55,7 @@ redirect_from:
 
 ---
 
-### <img src="../images/sharif.png" alt="Sharif University Logo" title="Sharif University of Technology" width="40" style="vertical-align:middle; margin-right:5px;"/> Sharif University of Technology
+### <img src="../images/sharif.png" alt="Sharif University Logo" title="Sharif University of Technology" width="30" style="vertical-align:middle; margin-right:5px;"/> Sharif University of Technology
 **Role:** *Graduate Research and Teaching Assistant*  
 **Location:** Tehran, Iran  
 **Dates:** Sep. 2017 – May 2021  
