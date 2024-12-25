@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Experience
-
 ---
 
 <!-- Dominion Energy -->
@@ -69,10 +67,6 @@ redirect_from:
       <strong>Jan. 2024 – May 2024</strong>
     </div>
   </div>
-  <ul style="margin-top: 0.8em;">
-    <li>Developed Python scripts to automate <strong>Case Quality Metrics</strong> checks in <strong>PSLF</strong>.</li>
-    <li>Analyzed disturbances in <strong>Battery Energy Storage Systems (BESS)</strong> across the Western Interconnection.</li>
-  </ul>
 </div>
 
 ---
@@ -102,10 +96,6 @@ redirect_from:
       <strong>May 2023 – Aug. 2023</strong>
     </div>
   </div>
-  <ul style="margin-top: 0.8em;">
-    <li>Developed and validated <strong>transmission planning models</strong> for data centers in Northern Virginia.</li>
-    <li>Proposed and implemented an <strong>enhanced DC power flow model</strong> for <strong>N-1</strong> and <strong>N-1-1</strong> contingency analysis.</li>
-  </ul>
 </div>
 
 ---
@@ -135,10 +125,6 @@ redirect_from:
       <strong>Aug. 2021 – Dec. 2024</strong>
     </div>
   </div>
-  <ul style="margin-top: 0.8em;">
-    <li>Researched **ML** and **optimization** methods for DC power flow, DC-OPF, and unit commitment.</li>
-    <li>Assisted with graduate courses in **networked control** and **electrical energy conversion**.</li>
-  </ul>
 </div>
 
 ---
@@ -168,10 +154,6 @@ redirect_from:
       <strong>Sep. 2017 – May 2021</strong>
     </div>
   </div>
-  <ul style="margin-top: 0.8em;">
-    <li>Investigated methods to **enhance power system resilience** against high-impact, low-probability disruptions.</li>
-    <li>Taught and graded assignments for an **electrical distribution systems** course.</li>
-  </ul>
 </div>
 
 
