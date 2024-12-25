@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=7_H8IkUAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-7870-3465"
+  orcid            : #"https://orcid.org/0000-0002-7870-3465"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Babak-Taheri-6"
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/thetaheri_/"
+  instagram        : "/thetaheri_/"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/babak-taheri/"
+  linkedin         : "/babak-taheri/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
