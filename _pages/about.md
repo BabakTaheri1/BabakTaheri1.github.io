@@ -16,6 +16,65 @@ Education
 * M.Sc in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
 * M.Sc in Electrical Engineering, Sharif University of Technology, 2019
 * B.Sc in Electrical Engineering, University of Tabriz, 2017
+
+
+<div style="
+  background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+  padding: 1.5em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  margin-bottom: 1.5em;
+">
+  <h1 style="margin-top:0; font-weight:600; color:#333;">
+    Welcome!
+  </h1>
+  <p style="color:#555; line-height:1.6;">
+    I recently completed my PhD in the School of Electrical and Computer Engineering at the
+    Georgia Institute of Technology, working under the guidance of
+    <a href="https://molzahn.github.io/index.html" style="color:#007acc; text-decoration:none; font-weight:bold;" target="_blank">
+      Prof. Daniel Molzahn
+    </a>.
+  </p>
+  <p style="color:#555; line-height:1.6;">
+    My research passion lies in harnessing the power of mathematical optimization 
+    and machine learning to foster a more 
+    <strong>reliable</strong>, 
+    <strong>resilient</strong>, 
+    <strong>affordable</strong>, 
+    and 
+    <strong>sustainable</strong> 
+    energy future.
+    When I'm not immersed in research or teaching, you'll find me hiking, traveling, camping, 
+    watching movies, or enjoying a friendly game of soccer or volleyball.
+  </p>
+</div>
+
+<div style="
+  background: #fdfdfd;
+  padding: 1.5em;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+  font-family: Arial, sans-serif;
+">
+  <h2 style="margin-top:0; color:#333;">Education</h2>
+  <ul style="list-style-type: none; padding-left: 0; color:#555; line-height:1.6;">
+    <li style="margin-bottom:0.5em;">
+      <strong>Ph.D. in Electrical and Computer Engineering</strong>, Georgia Institute of Technology, 2024
+    </li>
+    <li style="margin-bottom:0.5em;">
+      <strong>M.Sc. in Electrical and Computer Engineering</strong>, Georgia Institute of Technology, 2024
+    </li>
+    <li style="margin-bottom:0.5em;">
+      <strong>M.Sc. in Electrical Engineering</strong>, Sharif University of Technology, 2019
+    </li>
+    <li style="margin-bottom:0.5em;">
+      <strong>B.Sc. in Electrical Engineering</strong>, University of Tabriz, 2017
+    </li>
+  </ul>
+</div>
+
   
 <!-- Fancy, scrollable "Latest News & Announcements" section with a modern design -->
 <div style="
