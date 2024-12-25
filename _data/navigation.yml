@@ -8,15 +8,13 @@ main:
     
   - title: "Experience"
     url: /cv/
-    
-  - title: "Portfolio"
-    url: /portfolio/
 
     
   - title: "Publications"
     #url: /publications/
     url: https://scholar.google.com/citations?user=7_H8IkUAAAAJ
-
+ #- title: "Portfolio"
+ #   url: /portfolio/
 
  # - title: "Talks"
  #   url: /talks/    
