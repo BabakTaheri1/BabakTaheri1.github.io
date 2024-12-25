@@ -37,7 +37,7 @@ author:
   orcid            : #"https://orcid.org/0000-0002-7870-3465"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Babak-Taheri-6"
+  #researchgate     : "https://www.researchgate.net/profile/Babak-Taheri-6"
   scopus           : # URL
 
   # Repositories and software development
