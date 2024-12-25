@@ -271,7 +271,6 @@ redirect_from:
 ">
   <h2 style="margin: 0; color: #333; font-size: 1.4em;">Where in the world?</h2>
   <p style="color: #666; margin: 0.8em 0 1.2em 0; line-height: 1.5;">
-    Take a look at the map below to see where my visitors come from.
   </p>
 
   <!-- Your ClustrMaps script -->
