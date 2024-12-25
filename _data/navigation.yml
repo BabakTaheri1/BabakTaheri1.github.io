@@ -1,10 +1,14 @@
-# The following is the order of the links in the header of the website.
+u# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
 main:
+    
+  - title: "Education"
+    url: /Education/
+    
   - title: "Portfolio"
     url: /portfolio/
 
@@ -13,9 +17,7 @@ main:
     #url: /publications/
     url: https://scholar.google.com/citations?user=7_H8IkUAAAAJ
 
-    
-  - title: "CV"
-    url: /cv/
+
  # - title: "Talks"
  #   url: /talks/    
 
