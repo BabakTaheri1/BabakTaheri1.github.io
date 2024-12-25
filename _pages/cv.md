@@ -40,12 +40,6 @@ redirect_from:
       <strong>May 2024 – Aug. 2024</strong>
     </div>
   </div>
-  <ul style="margin-top: 0.8em;">
-    <li>Created a <strong>PSS/E</strong> model of the Coastal Virginia Offshore Wind (<strong>CVOW</strong>) system.</li>
-    <li>Conducted a <strong>transfer limit study</strong> using <strong>TARA</strong> to determine max power transfer.</li>
-    <li>Performed <strong>generation deliverability</strong> studies (PJM rules) to identify potential thermal violations.</li>
-    <li>Executed <strong>phasor-domain transient stability</strong> analyses for sudden CVOW unit losses.</li>
-  </ul>
 </div>
 
 ---
