@@ -54,7 +54,7 @@ redirect_from:
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>M.Sc. in Electrical Engineering – Power Systems</strong> (Sep. 2017 – May 2019)<br>
+        <strong>M.Sc. in Electrical Engineering</strong> (Sep. 2017 – May 2019)<br>
         GPA: 4.00/4.00 
         <span style="font-size:0.9em; color:#999;">
           (2<span style="vertical-align: super;">nd</span> out of 19)
@@ -71,7 +71,7 @@ redirect_from:
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>B.Sc. in Electrical Engineering – Power</strong> (Sep. 2013 – Jun. 2017)<br>
+        <strong>B.Sc. in Electrical Engineering</strong> (Sep. 2013 – Jun. 2017)<br>
         GPA: 3.94/4.00 
         <span style="font-size:0.9em; color:#999;">
           (1<span style="vertical-align: super;">st</span> out of 200)
