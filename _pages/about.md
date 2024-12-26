@@ -328,6 +328,6 @@ redirect_from:
   <script
     type="text/javascript"
     id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs"
+    src="//clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs"
   ></script>
 </div>
