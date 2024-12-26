@@ -324,5 +324,5 @@ redirect_from:
   </div>
 </div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=IOXQwQpSC0JvOPauXcqdxTU8zarkV5M0XYAfgrG4TXs&cl=ffffff&w=a"></script>
 
