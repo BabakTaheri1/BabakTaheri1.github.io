@@ -99,7 +99,7 @@ redirect_from:
           (Sep. 2017 – May 2019)
         </span>
         <br>
-        GPA: 4.00/4.00 
+        <!--GPA: 4.00/4.00-->
         <span style="font-size:0.9em; color:#999;">
           <!--(2<span style="vertical-align: super;">nd</span> out of 19)-->
         </span>
@@ -120,7 +120,7 @@ redirect_from:
           (Sep. 2013 – Jun. 2017)
         </span>
         <br>
-        GPA: 3.94/4.00 
+       <!-- GPA: 3.94/4.00-->
         <span style="font-size:0.9em; color:#999;">
           <!--(1<span style="vertical-align: super;">st</span> out of 200)-->
         </span>
