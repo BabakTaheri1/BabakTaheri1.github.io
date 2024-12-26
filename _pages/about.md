@@ -46,23 +46,51 @@ redirect_from:
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.07);
   font-family: Arial, sans-serif;
+  margin-bottom: 1.5em;
 ">
-  <h2 style="margin-top:0; color:#333;">Education</h2>
-  <ul style="list-style-type: none; padding-left: 0; color:#555; line-height:1.6;">
-    <li style="margin-bottom:0.5em;">
-      <strong>Ph.D. in Electrical and Computer Engineering</strong>, Georgia Institute of Technology, 2024
-    </li>
-    <li style="margin-bottom:0.5em;">
-      <strong>M.Sc. in Electrical and Computer Engineering</strong>, Georgia Institute of Technology, 2024
-    </li>
-    <li style="margin-bottom:0.5em;">
-      <strong>M.Sc. in Electrical Engineering</strong>, Sharif University of Technology, 2019
-    </li>
-    <li style="margin-bottom:0.5em;">
-      <strong>B.Sc. in Electrical Engineering</strong>, University of Tabriz, 2017
-    </li>
-  </ul>
+  <h2 style="margin-top:0; color:#333;">
+    Education
+  </h2>
+
+  <!-- Georgia Tech: PhD + Minor + Master's -->
+  <div style="margin-bottom: 1.5em;">
+    <h3 style="margin:0; color:#555;">Georgia Institute of Technology <span style="font-weight:normal; color:#999;">(Atlanta, GA)</span></h3>
+    <p style="margin: 0.3em 0; color:#666;">
+      <strong>Ph.D. in Electrical &amp; Computer Engineering</strong> (Aug. 2021 – Dec. 2024)<br>
+      <em style="color:#999; font-size:0.95em;">
+        Dissertation: <q>Improving Power System Approximations Through Machine Learning–Inspired Optimization Methods</q><br>
+        Advisor: Dr. Daniel K. Molzahn
+      </em>
+    </p>
+    <p style="margin: 0.3em 0; color:#666;">
+      <strong>Minor in Industrial &amp; Systems Engineering (ISyE)</strong> (Aug. 2022 – May 2024)
+    </p>
+    <p style="margin: 0.3em 0; color:#666;">
+      <strong>M.Sc. in Electrical &amp; Computer Engineering</strong> (Aug. 2021 – May 2024)
+    </p>
+  </div>
+
+  <!-- Sharif University: Master's -->
+  <div style="margin-bottom: 1.5em;">
+    <h3 style="margin:0; color:#555;">Sharif University of Technology <span style="font-weight:normal; color:#999;">(Tehran)</span></h3>
+    <p style="margin: 0.3em 0; color:#666;">
+      <strong>M.Sc. in Electrical Engineering – Power Systems</strong> (Sep. 2017 – May 2019)<br>
+      GPA: 4.00/4.00 
+      <span style="font-size:0.9em; color:#999;">(2<span style="vertical-align:super;">nd</span> out of 19)</span>
+    </p>
+  </div>
+
+  <!-- University of Tabriz: Bachelor's -->
+  <div>
+    <h3 style="margin:0; color:#555;">University of Tabriz <span style="font-weight:normal; color:#999;">(Tabriz)</span></h3>
+    <p style="margin: 0.3em 0; color:#666;">
+      <strong>B.Sc. in Electrical Engineering – Power</strong> (Sep. 2013 – Jun. 2017)<br>
+      GPA: 3.94/4.00
+      <span style="font-size:0.9em; color:#999;">(1<span style="vertical-align:super;">st</span> out of 200)</span>
+    </p>
+  </div>
 </div>
+
 
   
 <!-- Fancy, scrollable "Latest News & Announcements" section with a modern design -->
