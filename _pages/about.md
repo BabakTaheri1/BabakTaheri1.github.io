@@ -94,14 +94,14 @@ redirect_from:
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>M.Sc. in Electrical Engineering – Power Systems</strong>
+        <strong>M.Sc. in Electrical Engineering</strong>
         <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
           (Sep. 2017 – May 2019)
         </span>
         <br>
         GPA: 4.00/4.00 
         <span style="font-size:0.9em; color:#999;">
-          (2<span style="vertical-align: super;">nd</span> out of 19)
+          <!--(2<span style="vertical-align: super;">nd</span> out of 19)-->
         </span>
       </li>
     </ul>
@@ -115,14 +115,14 @@ redirect_from:
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>B.Sc. in Electrical Engineering – Power</strong>
+        <strong>B.Sc. in Electrical Engineering</strong>
         <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
           (Sep. 2013 – Jun. 2017)
         </span>
         <br>
         GPA: 3.94/4.00 
         <span style="font-size:0.9em; color:#999;">
-          (1<span style="vertical-align: super;">st</span> out of 200)
+          <!--(1<span style="vertical-align: super;">st</span> out of 200)-->
         </span>
       </li>
     </ul>
