@@ -33,7 +33,7 @@ redirect_from:
     and 
     <strong>sustainable</strong> 
     energy future.
-    When I'm not immersed in research or teaching, you'll find me hiking, traveling, camping, 
+    When I'm not immersed in research, you'll find me hiking, traveling, 
     watching movies, or enjoying a friendly game of soccer or volleyball.
   </p>
 </div>
