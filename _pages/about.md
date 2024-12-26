@@ -324,7 +324,7 @@ redirect_from:
   </div>
 </div>
 
-<div style="width: 220px; margin: 0 auto;">
+<div style="width: 400px; margin: 0 auto;">
   <script
     type="text/javascript"
     id="clustrmaps"
