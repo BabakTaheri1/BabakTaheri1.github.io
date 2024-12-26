@@ -22,7 +22,9 @@ redirect_from:
   </h1>
   <p style="color:#555; line-height:1.6;">
     I recently completed my PhD in the School of Electrical and Computer Engineering at the
-    Georgia Institute of Technology, working under the guidance of
+    <span style="color:#B3A369; font-weight:bold;">
+  Georgia Institute of Technology
+</span>, working under the guidance of
     <a href="https://molzahn.github.io/index.html" style="color:#007acc; text-decoration:none; font-weight:bold;" target="_blank">
       Prof. Daniel Molzahn
     </a>.
