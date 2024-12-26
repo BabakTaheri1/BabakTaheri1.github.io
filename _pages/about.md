@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <div style="
   background: #fdfdfd;
   padding: 1.5em;
@@ -23,11 +22,14 @@ redirect_from:
   <div style="margin-bottom: 1.5em;">
     <h3 style="margin:0; color:#555;">
       Georgia Institute of Technology 
-      <span style="font-weight:normal; color:#999;">(Atlanta, GA)</span>
+      <span style="font-weight: normal; color: #999;">(Atlanta, GA)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>Ph.D. in Electrical &amp; Computer Engineering</strong> (Aug. 2021 – Dec. 2024)
+        <strong>Ph.D. in Electrical &amp; Computer Engineering</strong>
+        <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
+          (Aug. 2021 – Dec. 2024)
+        </span>
         <ul style="list-style: circle; margin: 0.25em 0 0 1.5em;">
           <li style="color:#999; font-size:0.95em;">
             Dissertation: <q>Improving Power System Approximations Through Machine Learning–Inspired Optimization Methods</q>
@@ -38,10 +40,16 @@ redirect_from:
         </ul>
       </li>
       <li>
-        <strong>Minor in Industrial &amp; Systems Engineering (ISyE)</strong> (Aug. 2022 – May 2024)
+        <strong>Minor in Industrial &amp; Systems Engineering (ISyE)</strong>
+        <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
+          (Aug. 2022 – May 2024)
+        </span>
       </li>
       <li>
-        <strong>M.Sc. in Electrical &amp; Computer Engineering</strong> (Aug. 2021 – May 2024)
+        <strong>M.Sc. in Electrical &amp; Computer Engineering</strong>
+        <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
+          (Aug. 2021 – May 2024)
+        </span>
       </li>
     </ul>
   </div>
@@ -50,11 +58,15 @@ redirect_from:
   <div style="margin-bottom: 1.5em;">
     <h3 style="margin:0; color:#555;">
       Sharif University of Technology 
-      <span style="font-weight:normal; color:#999;">(Tehran)</span>
+      <span style="font-weight: normal; color: #999;">(Tehran)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>M.Sc. in Electrical Engineering</strong> (Sep. 2017 – May 2019)<br>
+        <strong>M.Sc. in Electrical Engineering – Power Systems</strong>
+        <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
+          (Sep. 2017 – May 2019)
+        </span>
+        <br>
         GPA: 4.00/4.00 
         <span style="font-size:0.9em; color:#999;">
           (2<span style="vertical-align: super;">nd</span> out of 19)
@@ -67,11 +79,15 @@ redirect_from:
   <div>
     <h3 style="margin:0; color:#555;">
       University of Tabriz 
-      <span style="font-weight:normal; color:#999;">(Tabriz)</span>
+      <span style="font-weight: normal; color: #999;">(Tabriz)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
-        <strong>B.Sc. in Electrical Engineering</strong> (Sep. 2013 – Jun. 2017)<br>
+        <strong>B.Sc. in Electrical Engineering – Power</strong>
+        <span style="font-size:0.85em; font-style:italic; color:#999; margin-left:0.5em;">
+          (Sep. 2013 – Jun. 2017)
+        </span>
+        <br>
         GPA: 3.94/4.00 
         <span style="font-size:0.9em; color:#999;">
           (1<span style="vertical-align: super;">st</span> out of 200)
