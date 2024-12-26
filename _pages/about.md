@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 <div style="
   background: #fdfdfd;
   padding: 1.5em;
@@ -23,14 +22,8 @@ redirect_from:
   <!-- Georgia Tech Section -->
   <div style="margin-bottom: 1.5em;">
     <h3 style="margin:0; color:#555;">
-      <img 
-        src="./images/gatech.png"
-        alt="Georgia Tech Logo"
-        width="35"
-        style="vertical-align: middle; margin-right: 8px;"
-      />
-      Georgia Institute of Technology
-      <span style="font-weight: normal; color: #999;">(Atlanta, GA)</span>
+      Georgia Institute of Technology 
+      <span style="font-weight:normal; color:#999;">(Atlanta, GA)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
@@ -56,14 +49,8 @@ redirect_from:
   <!-- Sharif University Section -->
   <div style="margin-bottom: 1.5em;">
     <h3 style="margin:0; color:#555;">
-      <img 
-        src="./images/sharif.png"
-        alt="Sharif University of Technology Logo"
-        width="35"
-        style="vertical-align: middle; margin-right: 8px;"
-      />
-      Sharif University of Technology
-      <span style="font-weight: normal; color: #999;">(Tehran)</span>
+      Sharif University of Technology 
+      <span style="font-weight:normal; color:#999;">(Tehran)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
@@ -79,19 +66,13 @@ redirect_from:
   <!-- University of Tabriz Section -->
   <div>
     <h3 style="margin:0; color:#555;">
-      <img 
-        src="./images/tabriz.png"
-        alt="University of Tabriz Logo"
-        width="35"
-        style="vertical-align: middle; margin-right: 8px;"
-      />
-      University of Tabriz
-      <span style="font-weight: normal; color: #999;">(Tabriz)</span>
+      University of Tabriz 
+      <span style="font-weight:normal; color:#999;">(Tabriz)</span>
     </h3>
     <ul style="list-style: disc; margin: 0.5em 0 0 2em; color:#666;">
       <li>
         <strong>B.Sc. in Electrical Engineering – Power</strong> (Sep. 2013 – Jun. 2017)<br>
-        GPA: 3.94/4.00
+        GPA: 3.94/4.00 
         <span style="font-size:0.9em; color:#999;">
           (1<span style="vertical-align: super;">st</span> out of 200)
         </span>
