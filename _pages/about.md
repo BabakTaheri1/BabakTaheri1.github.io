@@ -131,8 +131,38 @@ redirect_from:
 
 
 
-
-  
+<!-- Fancy, scrollable "Latest News & Announcements" section with a modern design -->
+<div style="
+  margin: 1em 0; 
+  border-radius: 10px; 
+  background: linear-gradient(135deg, #ffffff 0%, #f8f8f8 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+">
+<!-- Section Heading -->
+  <div style="
+    background: linear-gradient(to right, #343a40 0%, #555 100%);
+    padding: 1em;
+  ">
+    <h2 style="
+      margin: 0; 
+      font-size: 1.5em; 
+      text-align: center; 
+      color: #fff; 
+      font-family: Arial, sans-serif;
+      Latest News
+    </h2>
+  </div>
+  <!-- Scrollable Content -->
+  <div style="
+    max-height: 300px; 
+    overflow-y: auto; 
+    padding: 1.2em 1.5em; 
+    font-family: Arial, sans-serif; 
+    font-size: 0.95em; 
+    line-height: 1.5;
+    color: #333;
+  ">
 <ul style="list-style-type:none; margin:0; padding:0;">
   
   <li style="margin-bottom:1em;">
