@@ -222,20 +222,16 @@ redirect_from:
       <li style="margin-bottom:1em;">
         <span style="font-weight:bold; color:#555;">📅 March 2024:</span>
         Two papers 
-        [
-          <a href="https://arxiv.org/pdf/2310.00447" target="_blank" style="
+        [<a href="https://arxiv.org/pdf/2310.00447" target="_blank" style="
             color:#007acc; 
             font-weight:bold; 
             text-decoration:none;
-          ">
-            1
-          </a>, 
+          ">1</a>, 
           <a href="https://arxiv.org/pdf/2304.11418" target="_blank" style="
             color:#007acc; 
             font-weight:bold; 
             text-decoration:none;
-          ">
-            2
+          ">2
           </a>
         ]
         have been accepted for the 23rd Power Systems Computational Conference (PSCC), 
