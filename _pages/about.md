@@ -137,66 +137,66 @@ redirect_from:
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Timeline Slider</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <div class="slider-container">
-    <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
-    
-    <div class="slides">
-      <!-- Slide 1 -->
-      <div class="slide">
-        <span class="date">📆 December 2024:</span>
-        <p>
-          I defended my dissertation 
-          <em>“Improving Power System Approximations Through Machine Learning-Inspired Optimization Methods”</em>
-          to complete the PhD degree.
-        </p>
-      </div>
-      
-      <!-- Slide 2 -->
-      <div class="slide">
-        <span class="date">📆 November 2024:</span>
-        <p>
-          Check out our new 
-          <a href="https://arxiv.org/pdf/2411.10528" target="_blank" class="link">
-            preprint
-          </a>
-          on DC Optimal Transmission Switching Problem.
-        </p>
-      </div>
-      
-      <!-- Slide 3 -->
-      <div class="slide">
-        <span class="date">📆 October 2024:</span>
-        <p>
-          Check out our new 
-          <a href="https://arxiv.org/pdf/2410.11725" target="_blank" class="link">
-            preprint
-          </a>
-          on improving the accuracy of DC optimal power flow models.
-        </p>
-      </div>
-      
-      <!-- Add more slides as needed -->
-      
-      <!-- Example Slide -->
-      <div class="slide">
-        <span class="date">📆 May 2023:</span>
-        <p>
-          I started my internship at Dominion Energy in the ET Planning-Modeling team.
-        </p>
+    <!-- Slider Wrapper -->
+    <div class="slider-wrapper">
+      <div class="slides">
+        <!-- Slide 1 -->
+        <div class="slide">
+          <span class="date">📆 December 2024:</span>
+          <p>
+            I defended my dissertation 
+            <em>“Improving Power System Approximations Through Machine Learning-Inspired Optimization Methods”</em>
+            to complete the PhD degree.
+          </p>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="slide">
+          <span class="date">📆 November 2024:</span>
+          <p>
+            Check out our new 
+            <a href="https://arxiv.org/pdf/2411.10528" target="_blank" class="link">
+              preprint
+            </a>
+            on DC Optimal Transmission Switching Problem.
+          </p>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="slide">
+          <span class="date">📆 October 2024:</span>
+          <p>
+            Check out our new 
+            <a href="https://arxiv.org/pdf/2410.11725" target="_blank" class="link">
+              preprint
+            </a>
+            on improving the accuracy of DC optimal power flow models.
+          </p>
+        </div>
+        
+        <!-- Add more slides as needed -->
       </div>
     </div>
-    
+
+    <!-- Navigation Arrows -->
+    <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
     <button class="next" onclick="moveSlide(1)">&#10095;</button>
+
+    <!-- Dots for Navigation -->
+    <div class="dots-container"></div>
   </div>
 
   <script src="script.js"></script>
 </body>
 </html>
+
 
 
 <div style="width: 400px; margin: 0 auto;">
