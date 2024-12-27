@@ -314,7 +314,7 @@ redirect_from:
     I started my internship at Dominion Energy in the ET Planning-Modeling team.
   </li>
 
-    </ul>
+  </ul>
   </div>
 </div>
 
