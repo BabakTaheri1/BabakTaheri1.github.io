@@ -151,7 +151,7 @@ redirect_from:
       color: #fff; 
       font-family: Arial, sans-serif;
     ">
-      Latest News & Announcements
+      Latest News
     </h2>
   </div>
 
