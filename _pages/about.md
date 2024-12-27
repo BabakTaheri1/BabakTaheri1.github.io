@@ -247,8 +247,7 @@ redirect_from:
             color:#007acc; 
             font-weight:bold; 
             text-decoration:none;
-          ">1
-          </a>, 
+          ">1</a>, 
           <a href="https://arxiv.org/pdf/2304.11418" target="_blank" style="
             color:#007acc; 
             font-weight:bold; 
