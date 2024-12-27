@@ -151,7 +151,7 @@ redirect_from:
       color: #fff; 
       font-family: Arial, sans-serif;
     ">
-      Latest News
+      Latest News & Announcements
     </h2>
   </div>
 
@@ -207,6 +207,15 @@ redirect_from:
         Strategic Initiatives group.
       </li>
       <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 May 2024:</span>
+        I defended my PhD proposal and became a PhD candidate.
+      </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 May 2024:</span>
+        I received my second MSc degree in Electrical and Computer Engineering,
+        this time from the Georgia Institute of Technology.
+      </li>
+      <li style="margin-bottom:1em;">
         <span style="font-weight:bold; color:#555;">📅 April 2024:</span>
         Our 
         <a href="https://ieeexplore.ieee.org/document/10508102" target="_blank" style="
@@ -220,27 +229,77 @@ redirect_from:
         the IEEE Transactions on Power Systems.
       </li>
       <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 April 2024:</span>
+        Check out our new 
+        <a href="https://arxiv.org/pdf/2404.05125" target="_blank" style="
+          color:red; 
+          font-weight:bold; 
+          text-decoration:none;
+        ">
+          preprint
+        </a>
+        on an optimized LinDistFlow model for power distribution networks.
+      </li>
+      <li style="margin-bottom:1em;">
         <span style="font-weight:bold; color:#555;">📅 March 2024:</span>
         Two papers 
         [<a href="https://arxiv.org/pdf/2310.00447" target="_blank" style="
             color:#007acc; 
             font-weight:bold; 
             text-decoration:none;
-          ">1</a>, 
+          ">1
+          </a>, 
           <a href="https://arxiv.org/pdf/2304.11418" target="_blank" style="
             color:#007acc; 
             font-weight:bold; 
             text-decoration:none;
-          ">2
-          </a>
-        ]
+          ">
+            2</a>]
         have been accepted for the 23rd Power Systems Computational Conference (PSCC), 
         to appear in Electric Power Systems Research. We are looking to present our papers 
         in Paris this summer.
       </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 February 2024:</span>
+        I presented our 
+        <a href="https://ieeexplore.ieee.org/abstract/document/10472173" target="_blank" style="
+          color:#007acc; 
+          font-weight:bold; 
+          text-decoration:none;
+        ">
+          paper
+        </a>
+        on power system equivalents at the Texas Power and Energy Conference (TPEC).
+      </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 January 2024:</span>
+        I began my part-time internship at North American Electric Reliability Corporation (NERC) 
+        in the Advanced System Analytics &amp; Modeling (ASAM) department.
+      </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 August 2023:</span>
+        I received the Dominion Energy Inclusion, Equity, and Diversity Scholarship Award.
+      </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 June 2023:</span>
+        I presented our 
+        <a href="https://arxiv.org/pdf/2209.04399" target="_blank" style="
+          color:#007acc; 
+          font-weight:bold; 
+          text-decoration:none;
+        ">
+          paper
+        </a>
+        on the AC power flow feasibility restoration at the American Control Conference (ACC).
+      </li>
+      <li style="margin-bottom:1em;">
+        <span style="font-weight:bold; color:#555;">📅 May 2023:</span>
+        I started my internship at Dominion Energy in the ET Planning-Modeling team.
+      </li>
     </ul>
   </div>
 </div>
+
 
 
 <div style="width: 400px; margin: 0 auto;">
