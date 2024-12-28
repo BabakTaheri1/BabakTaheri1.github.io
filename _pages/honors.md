@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Honors and Awards"
+layout: archive
 permalink: /honors/
 author_profile: true
-redirect_from:
-  - /honors
 ---
 
 ### SELECTED HONORS & AWARDS
