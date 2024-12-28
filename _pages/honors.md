@@ -2,10 +2,6 @@
 permalink: /honors/
 title: ""
 author_profile: true
-redirect_from: 
-  - /honors/
-  - /honors.html
----
 ### SELECTED HONORS & AWARDS
 
 - **Awarded the Dominion Energy Inclusion, Equity and Diversity Scholarship** (July 2024).
