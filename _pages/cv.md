@@ -34,8 +34,8 @@ redirect_from:
     </div>
     <!-- Location + Dates on the Right -->
     <div style="text-align: right;">
-      <strong>Richmond, VA</strong><br>
-      <strong>May 2024 – Aug. 2024</strong>
+      Richmond, VA<br>
+      May 2024 – Aug. 2024
     </div>
   </div>
 </div>
