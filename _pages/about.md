@@ -144,7 +144,7 @@ redirect_from:
     background: linear-gradient(to right, #343a40 0%, #555 100%);
     padding: 1em;
   ">
-    <h2 style="
+    <h3 style="
       margin: 0; 
       font-size: 1.5em; 
       text-align: center; 
@@ -152,7 +152,7 @@ redirect_from:
       font-family: Arial, sans-serif;
     ">
       Latest News
-    </h2>
+    </h3>
   </div>
 
   <!-- Scrollable Content -->
