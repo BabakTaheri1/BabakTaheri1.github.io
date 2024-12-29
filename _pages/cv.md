@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 ---
-hey
 <!-- Dominion Energy -->
 <div style="
   margin: 1em 0; 
